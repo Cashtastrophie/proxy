@@ -128,7 +128,7 @@ body {
     right: 30px;
 }
 
-.ytlink {
+.otherlinks {
     right: 100px;
     cursor: pointer;
 }
@@ -145,13 +145,13 @@ body {
     display: none;
 }
 
-.ytlink:hover {
+.otherlinks:hover {
     color: grey;
 }
 
 .tabconfig {
     cursor: pointer;
-    right: 180px;
+    right: 200px;
 }
 
 .tabconfig:hover {
